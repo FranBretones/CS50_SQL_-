@@ -205,4 +205,5 @@ ORDER BY comment_count DESC;
 
     * Limited `comments` Details : it would be necessary expand the schema if we want more datails about `comments`.
  
-![CS50 Certificacion ](https://imgur.com/a/zffjtUG)
+## 📄 Certification 
+![CS50 Certificacion](https://i.imgur.com/zBVOixY.png)
