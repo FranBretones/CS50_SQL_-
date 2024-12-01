@@ -204,3 +204,5 @@ ORDER BY comment_count DESC;
     * Limited `groups` Functionality: if we want to support more advanced funcionalities (e.g., file sharing) we might to expand the schema.
 
     * Limited `comments` Details : it would be necessary expand the schema if we want more datails about `comments`.
+ 
+![CS50 Certificacion ](https://i.imgur.com/61UzxRp.png](https://github.com/FranBretones/CS50_SQL_Final_Project/blob/main/CS50%20SQL.pdf)
